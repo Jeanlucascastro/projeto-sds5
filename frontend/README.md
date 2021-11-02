@@ -1,18 +1,19 @@
-# Getting Started with Create React App
+# Projeto Spring React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado na semana Spring React da escola de programacao DevSuperior
 
-## Available Scripts
+## Tecnologias
 
-In the project directory, you can run:
+- Java 
+- Spring Boot
+- React com TypeScript
+- Boostrap
+- ApexCharts
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Esta publicado no Netilify
+Open [https://dsvendas-jeancastro.netlify.app/](https://dsvendas-jeancastro.netlify.app/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 ### `yarn test`
 
